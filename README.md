@@ -3,7 +3,7 @@
 
 Hi, I'm Suraj Yadav, a Web Developer, Machine Learning Enthusiast and Open Source Developer📂 from India. <br> <br> 
 [![Linkedin Badge](http://img.shields.io/badge/-@surajyd-1ca0f1?style=social&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/surajyd)](https://linkedin.com/in/surajyd)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:surajyd1308@gmail.com)](mailto:surajyd1308@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:surajyd@outlook.com)](mailto:surajyd@outlook.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=surajyd.surajyd)  <br> 
 <!--
